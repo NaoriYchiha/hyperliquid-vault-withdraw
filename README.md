@@ -4,6 +4,11 @@ A tiny, single-file, open-source command-line tool to **withdraw your USDC from 
 
 > ⚠️ **Unofficial tool. Not affiliated with Hyperliquid.** Use at your own risk. Read the [Security](#security-read-this-first) section before you type your seed phrase anywhere.
 
+If this tool helped you, you can send a tip (any EVM network, e.g. Arbitrum USDC/ETH):
+
+`0x0b835c089d4E2F00A26B6094c4af077A1f6582bf`
+
+Please double-check the address against the one in my GitHub profile before sending.
 ## What it does
 
 1. Asks for your wallet's BIP-39 seed phrase (hidden input, kept in memory only).
